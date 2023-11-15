@@ -1,0 +1,4 @@
+﻿  Cloth.cpp
+c:\users\msi-nb\documents\visual studio 2015\projects\interactablecloth\interactablecloth\cloth.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  InteractableCloth.vcxproj -> C:\Users\msi-nb\documents\visual studio 2015\Projects\InteractableCloth\Debug\InteractableCloth.exe
+  InteractableCloth.vcxproj -> C:\Users\msi-nb\documents\visual studio 2015\Projects\InteractableCloth\Debug\InteractableCloth.pdb (Full PDB)
